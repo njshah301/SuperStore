@@ -7,5 +7,5 @@ This application is about Super-Market scenario. At Billing counter, bill is gen
 
 
 
-![image](https://user-images.githubusercontent.com/58663029/175396557-f3e3b7a1-12f0-47aa-8e7b-f460f94606ef.png)
+![image](https://user-images.githubusercontent.com/58663029/175396748-e7ca1196-da85-4771-9e48-f9b5f31a8c5a.png)
 
