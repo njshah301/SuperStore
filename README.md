@@ -1,6 +1,4 @@
 # SuperStore
-This application is about Super-Market scenario. At Billing counter, bill is generated having item information, total amount , customer id and transaction id; customer rewarded with some points; in parallel one need to update the stock and customer points.
-
 I have made an application on Supermarket using C++ language. In this application, the customer can buy items and the automated bill will be generated. In this application, parallel inventory will be updated and customer data will be generated.
 
 There are specifications of some functionalities listed below:
