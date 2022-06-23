@@ -5,13 +5,13 @@ I have made an application on Supermarket using C++ language. In this applicatio
 
 There are specifications of some functionalities listed below:
 
-```sh
-1. Inventory Dataset maintains items and stock information.
-2. Manager can have all the access to this inventory Dataset.
-3. Billing object has all the functionality that we generally encounter at
+
+- Inventory Dataset maintains items and stock information.
+-  Manager can have all the access to this inventory Dataset.
+- Billing object has all the functionality that we generally encounter at
 billing counter like bill generation, add new customer to customer Dataset
 and update points and update inventory.
-```
+
 
 ## Sample Output
 
