@@ -1,5 +1,5 @@
 # SuperStore
-I have made an application on Supermarket using C++ language. In this application, the customer can buy items and the automated bill will be generated. In this application, parallel inventory will be updated and customer data will be generated.
+I have made an application on Supermarket using C++ language in second semester. In this application, the customer can buy items and the automated bill will be generated. In this application, parallel inventory will be updated and customer data will be generated.
 
 There are specifications of some functionalities listed below:
 
